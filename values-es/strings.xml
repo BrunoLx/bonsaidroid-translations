@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~
+  ~   Bonsaidroid Copyright (C) 2017 Sergio Cruz
+  ~
+  ~       This program is free software: you can redistribute it and/or modify
+  ~       it under the terms of the GNU General Public License as published by
+  ~       the Free Software Foundation, either version 3 of the License, or
+  ~       (at your option) any later version.
+  ~
+  ~       This program is distributed in the hope that it will be useful,
+  ~       but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~       MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~       GNU General Public License for more details.
+  ~
+  ~       You should have received a copy of the GNU General Public License
+  ~      along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  ~
+  -->
+<resources>
+    <string name="file">Ficha</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="add_bonsai">Nuevo bonsai</string>
+    <string name="add_bonsai_fragment_section">Crear bonsai</string>
+    <string name="add_photo">Añadir foto</string>
+    <string name="alcornoque">Alcornoque</string>
+    <string name="allow_notification">Activar notificaciones</string>
+    <string name="arce">Arce</string>
+    <string name="boj">Boj</string>
+    <string name="azalea">Azalea</string>
+    <string name="cancel">Cancelar</string>
+    <string name="carmona">Carmona</string>
+    <string name="clamped">Pinzado</string>
+    <string name="community">Comunidad</string>
+    <string name="date">Fecha</string>
+    <string name="defoliate">Defoliar</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_photo_confirm">¿Estás seguro de querer eliminar esta foto?</string>
+    <string name="delete_title">Eliminar</string>
+    <string name="delete_work_confirm">¿Estás seguro de querer eliminar este trabajo?</string>
+    <string name="deleted_photo">Foto eliminada</string>
+    <string name="deleted_work">Trabajo eliminado</string>
+    <string name="description">Descripción</string>
+    <string name="edit">Editar</string>
+    <string name="email">E-mail</string>
+    <string name="enable_notifications">Activar notificaciones</string>
+    <string name="encina">Encina</string>
+    <string name="erroneous_action">Error inesperado :-(</string>
+    <string name="error_creating_bonsai">Error creando bonsai. Reinténtalo con valores correctos</string>
+    <string name="expand_for_more">Expandir para más información</string>
+    <string name="fertilizer">Abono</string>
+    <string name="fertilizer_card_view">Abono:</string>
+    <string name="ficus">Ficus</string>
+    <string name="fumigated">Fumigado</string>
+    <string name="fumigated_card_view">Fumigado:</string>
+    <string name="gallery">Galería</string>
+    <string name="gardenia">Gardenia</string>
+    <string name="haya">Haya</string>
+    <string name="granado">Granado</string>
+    <string name="hemisphere">Hemisferio</string>
+    <string name="higuera">Higuera</string>
+    <string name="inventory_fragment_section">Inventario</string>
+    <string name="irrigation">Riego</string>
+    <string name="irrigation_card_view">Riego:</string>
+    <string name="last_irrigation">Último riego (días)</string>
+    <string name="last_works">Últimos trabajos</string>
+    <string name="latest_revision">Hora de chequeo</string>
+    <string name="ligustrum">Ligustrum</string>
+    <string name="loading_photos">Cargando fotos &#8230;</string>
+    <string name="month_works_recommendation">Trabajos para este mes</string>
+    <string name="name">Nombre</string>
+    <string name="new_work">Nuevo trabajo</string>
+    <string name="no_data">Sin  datos</string>
+    <string name="no_photos">Sin fotos</string>
+    <string name="north">Norte</string>
+    <string name="not_permissions">La aplicación no tiene permisos para esta operación. Por favor, revisa los permisos concedidos a la app</string>
+    <string name="notification_advise">Echa un ojo a estos bonsais!</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="olivo">Olivo</string>
+    <string name="other">Otros</string>
+    <string name="pino">Pino</string>
+    <string name="pruning">Poda</string>
+    <string name="quick_action">Acción rápida</string>
+    <string name="roble">Roble</string>
+    <string name="save">Guardar</string>
+    <string name="select_bonsai_type">Selecciona el tipo</string>
+    <string name="select_hemisphere">Selecciona el hemisferio</string>
+    <string name="serissa">Serissa</string>
+    <string name="set_profile_photo">Foto de perfil</string>
+    <string name="settings">Ajustes</string>
+    <string name="south">Sur</string>
+    <string name="success_action">Hecho!</string>
+    <string name="successful_work_added">Trabajo añadido correctamente</string>
+    <string name="summ_enable_notifications">Con esta opción, Bonsaidroid mostrará notificaciones</string>
+    <string name="summary">Resumen</string>
+    <string name="summary_hemisphere">Para ajustar los trabajos recomendados por mes</string>
+    <string name="tejo">Tejo</string>
+    <string name="time">Hora</string>
+    <string name="title_activity_bonsai_details">Bonsai</string>
+    <string name="title_activity_bonsai_list">Inicio</string>
+    <string name="title_activity_global_gallery">Galería</string>
+    <string name="title_settings_activity">Ajustes</string>
+    <string name="transplant">Transplantado</string>
+    <string name="type">Tipo</string>
+    <string name="wood_work">Trabajo madera</string>
+    <string name="wiring">Alambrado</string>
+    <string name="zelkova">Zelkova (olmo chino)</string>
+    <string name="work_history">Histórico</string>
+    <string name="backups">Backup</string>
+    <string name="title_activity_database_backup">Copias de seguridad</string>
+    <string name="note">Notas</string>
+    <string name="days">días</string>
+    <string name="add_backup">Añadir copia</string>
+    <string name="gdrive_conn_error">Error conectando con Google Drive</string>
+    <string name="gdrive_conn_error_failed">Imposible conectar con Google Drive</string>
+    <string name="gdrive_successful_connection">Conectado a Drive!</string>
+    <string name="load">Loading&#8230;</string>
+    <string name="connected_as">Conectado como:</string>
+    <string name="connection_error">Error de conexión, reinténtalo de nuevo</string>
+    <string name="sign_out">Salir</string>
+    <string name="session">Sesión</string>
+    <string name="communicate">Social</string>
+    <string name="gdrive_backup_help">Las copias de seguridad se almacenan en tu Google Drive. De este modo, las copias están online y disponibles incluso para otros dispositivos.</string>
+    <string name="information">Información</string>
+    <string name="creating_backup">Creando copia&#8230;</string>
+    <string name="delete_backup_confirm">¿Estás seguro de querer eliminar esta copia?</string>
+    <string name="deleting_backup">Borrando copia&#8230;</string>
+    <string name="loading_backups">Cargando copias&#8230;</string>
+    <string name="photos">Fotos</string>
+    <string name="restore_backup_confirm">¿Estás seguro de querer restaurar esta copia?. El estado actuala será completamente reemplazado</string>
+    <string name="restore_backup_finished">Copia restaurada correctamente. Por favor, reinicia la aplicación.</string>
+    <string name="restore_backup_incompatible_version">Lo sentimos, esta copia es de una versión de la aplicación más moderna. Por favor, actualiza BonsaiDroid en el Play Store.</string>
+    <string name="restore">Restaurar</string>
+    <string name="restoring_backups">Restaurando copia &#8230;</string>
+    <string name="upgrading_db">Actualizando la base de datos a la última versión</string>
+    <string name="works">Trabajos</string>
+    <string name="bonsais">Bonsais</string>
+    <string name="unexpected_error">Error inesperado</string>
+    <string name="loading">Cargando...</string>
+    <string name="sign_revoke">Eliminar cuenta</string>
+    <string name="delete_bonsais_confirm">¿Estás seguro de querer borrar este o estos bonsais?</string>
+    <string name="share">Compartir</string>
+    <string name="share_profile_photo">Compartir fotos con&#8230;</string>
+    <string name="about">Acerca de</string>
+    <string name="anom_bonsai_file">No mostrar mi nombre como autor.</string>
+    <string name="author">Autor</string>
+    <string name="bonsai_files">Fichas</string>
+    <string name="comments">Comentarios</string>
+    <string name="common_name">Nombre común</string>
+    <string name="confirm_download">¿Descargar esta ficha?</string>
+    <string name="confirm_upload">¿Subir esta ficha?</string>
+    <string name="country">País</string>
+    <string name="created">Creado</string>
+    <string name="delete_bonsai_file">¿Estás seguro de querer borrar esta ficha?</string>
+    <string name="delete_uploaded_bonsai_file">¿Borrar esta ficha?</string>
+    <string name="downloads">Descargas</string>
+    <string name="illness">Enfermedades</string>
+    <string name="language">Idioma</string>
+    <string name="language_country">Idioma/País</string>
+    <string name="latin_name">Nombre latino</string>
+    <string name="light">Luz</string>
+    <string name="multiplication">Reproducción</string>
+    <string name="new_bonsai_file">Nueva ficha</string>
+    <string name="new_bonsai_file_mandatory_params">Dar un nombre común es oblitagatorio.</string>
+    <string name="new_bonsai_file_title">Nueva ficha</string>
+    <string name="new_bonsai_file_txt">Contribuye con una nueva ficha.</string>
+    <string name="origin">Origen</string>
+    <string name="other_cares">Otros cuidados</string>
+    <string name="other_options">Otras opciones</string>
+    <string name="plagues">Plagas</string>
+    <string name="rate_this_file">Puntúa esta ficha</string>
+    <string name="rating">Puntuación</string>
+    <string name="recommendation_per_month">Trabajos por mes</string>
+    <string name="report_content">Denunciar como contenido ofensivo.</string>
+    <string name="report_content_reason">¿Tienee esta ficha contenido ofensivo y crees que ha de ser eliminada?</string>
+    <string name="updated">Actualizado</string>
+    <string name="update">Actualizar</string>
+    <string name="temperature">Temperatura</string>
+    <string name="success_delete">Borrado completado con éxito.</string>
+    <string name="success_bonsai_file_upload">Añadido con éxito, gracias por contribuir.</string>
+    <string name="success_bonsai_file_download">Ficha descargada, ya la tienes disponible.</string>
+    <string name="success_add_bonsai_file_rate">Puntuación enviada!.</string>
+    <string name="style">Estilo</string>
+    <string name="send_rate">Enviar</string>
+    <string name="search_file_language">Buscar sólo en mi idioma</string>
+    <string name="search_file_country">Buscar sólo en mi país</string>
+    <string name="search">Buscar</string>
+    <string name="my_downloads">Mis descargas</string>
+    <string name="my_files">Mis fichas</string>
+    <string name="contact">Contacto</string>
+    <string name="soil">Tierra</string>
+    <string name="privacy">Política de privacidad</string>
+    <string name="policy">- Bonsaidroid es una aplicación desarrollada solamente en ratos libres y como proyecto personal, por lo que viene sin ningún tipo de garantía de uso. No se ofrece un soporte oficial ni un mantenimiento de actualizaciones en el tiempo, así como tampoco de los servicios relacionados como el servicio online de fichas.\n\n
+            - Fichas online. Este servicio está también desarrollado de la misma manera que la aplicación Android, por lo que aplican las mismas condiciones. Además, Bonsaidroid no se hace responsable del contenido publicado por los usuarios, reservándose el derecho a eliminar contenido ofensivo o inapropiado en cualquier momento. Este servicio podríaa ser suspendido en el futuro, así como lo dicho previamnete sobre las actualizaciones de la aplicación Android.\n\n
+            - Estadísticas. Bonsaidroid utiliza la Google Firebase para recolectar estadísticas del uso de la aplicación de forma anónima.\n\n
+            El uso de la aplicación implica la aceptación de esta política de privacidad.</string>
+    <string name="show">Mostrar</string>
+    <string name="more_types">Más especies de la comunidad</string>
+    <string name="lost_changes">¿Descartar cambios?</string>
+    <string name="allow_weather">Almacenar temperatura y humedad</string>
+    <string name="localizations">Localizaciones</string>
+    <string name="remove_localization">¿Eliminar esta localización?</string>
+    <string name="no_internet_permission">Debes permitir el acceso a internet a la APP. Revisa los permisos en el sistema.</string>
+    <string name="stats">Estadísticas</string>
+    <string name="year">Año</string>
+    <string name="plots">Gráficas</string>
+    <string name="num_fertilizer">Número abonados</string>
+    <string name="num_irrigation">Número riegos</string>
+    <string name="humidity">Humedad</string>
+    <string name="weather">Metereología</string>
+    <string name="history">Histórico</string>
+    <string name="calendar">Calendario</string>
+    <string name="custom_work">Otro trabajo</string>
+    <string name="custom_work_name">Nombre</string>
+    <string name="app_language">Idioma de la aplicación</string>
+    <string name="select_app_language">Cambiar idioma (se requiere reinicio)</string>
+    <string name="actual_years">Edad actual</string>
+    <string name="adquisition">Adquirido en</string>
+    <string name="adquisition_date">Fecha adquisición</string>
+    <string name="adquisition_years">Edad original</string>
+    <string name="price">Precio</string>
+    <string name="pot_type">Maceta</string>
+    <string name="irrigation_avg">Media riegos (días)</string>
+</resources>
