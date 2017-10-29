@@ -221,4 +221,9 @@
     <string name="price">Precio</string>
     <string name="pot_type">Maceta</string>
     <string name="irrigation_avg">Media riegos (días)</string>
+    <string name="since">Crear informe desde</string>
+    <string name="add_profile_photos">Añadir foto de perfil</string>
+    <string name="creating_progress">Generando...</string>
+    <string name="generated_report">Report creado satisfactoriamente en el directorio \"bonsaiDroid\" de tu SD-CARD. (es un archivo .docx)</string>
+    <string name="shared_with_bonsaidroid">Compartido con Bonsaidroid.</string>
 </resources>

@@ -273,5 +273,10 @@
     <string name="adquisition_date">Adquired date</string>
     <string name="actual_years">Current age</string>
     <string name="irrigation_avg">Avg watering (days)</string>
+    <string name="since">Create report since</string>
+    <string name="add_profile_photos">Add profile photo</string>
+    <string name="creating_progress">Creating...</string>
+    <string name="generated_report">Successfully generated report. Take it from directory \"bonsaiDroid\" at your sdcard (it\'s a docx document)</string>
+    <string name="shared_with_bonsaidroid">Shared with Bonsaidroid.</string>
 
 </resources>

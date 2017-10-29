@@ -223,5 +223,10 @@
     <string name="pot_type">Fioriera</string>
     <string name="price">Prezzo</string>
     <string name="irrigation_avg">L\'irrigazione media (giorni)</string>
+    <string name="since">"Crea report da allora "</string>
+    <string name="add_profile_photos">"Aggiungi foto del profilo "</string>
+    <string name="creating_progress">"Creazione ... "</string>
+    <string name="generated_report">"Rapporto generato con successo. Prendi dalla directory \"bonsaiDroid\" al tuo sdcard (è un documento docx) "</string>
+    <string name="shared_with_bonsaidroid">"Condiviso con Bonsaidroid. "</string>
 
 </resources>

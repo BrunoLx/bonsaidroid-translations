@@ -222,5 +222,10 @@
     <string name="pot_type">Pot</string>
     <string name="price">Prix</string>
     <string name="irrigation_avg">Arrosage moyen</string>
+    <string name="since">"Créer un rapport depuis "</string>
+    <string name="add_profile_photos">"Ajouter une photo de profil "</string>
+    <string name="creating_progress">"Créer ... "</string>
+    <string name="generated_report">"Rapport généré avec succès. Prenez-le du répertoire \"bonsaiDroid\" sur votre carte SD (c'est un document docx) "</string>
+    <string name="shared_with_bonsaidroid">"Partagé avec Bonsaidroid. "</string>
 
 </resources>

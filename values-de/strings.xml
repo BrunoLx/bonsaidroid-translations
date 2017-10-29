@@ -223,5 +223,10 @@
     <string name="pot_type">Topf</string>
     <string name="price">Preis</string>
     <string name="irrigation_avg">Durchschnittliche Bewässerung</string>
+    <string name="since">"Bericht erstellen seit "</string>
+    <string name="add_profile_photos">"Füge ein Profilfoto hinzu "</string>
+    <string name="creating_progress">Erstellen</string>
+    <string name="generated_report">"Erfolgreich erstellten Bericht. Nehmen Sie es aus dem Verzeichnis \"bonsaiDroid\" auf Ihrer SD-Karte (es ist ein docx-Dokument) "</string>
+    <string name="shared_with_bonsaidroid">"Mit Bonsaidroid geteilt. "</string>
 
 </resources>
