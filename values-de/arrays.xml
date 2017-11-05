@@ -21,7 +21,7 @@
 <resources>
     <string-array name="hemispheres">
         <item name="north">Norden</item>
-        <item name="south">Süd</item>
+        <item name="south">Süden</item>
     </string-array>
 
     <string-array name="hemispheresIntervalValues">

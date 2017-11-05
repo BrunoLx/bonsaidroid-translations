@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- latest edit marco@boldsuck.de 22.10.2017 22:43 -->
+<!-- latest edit marco@boldsuck.de 05.11.2017 00:50 -->
 <!--
   ~
   ~   Bonsaidroid Copyright (C) 2016 Sergio Cruz
@@ -20,31 +20,31 @@
   -->
 
 <resources>
-    <string name="action_settings">Optionen</string>
+    <string name="action_settings">Einstellungen</string>
     <string name="add_bonsai">Neuer Bonsai</string>
-    <string name="add_bonsai_fragment_section">Bonsai hinzufügen</string>
+    <string name="add_bonsai_fragment_section">Bonsai erstellen</string>
     <string name="add_photo">Foto hinzufügen</string>
     <string name="alcornoque">Korkeiche</string>
-    <string name="allow_notification">Benachrichtigungen</string>
-    <string name="arce">Acer / Ahorn</string>
+    <string name="allow_notification">Benachrichtigungen aktivieren</string>
+    <string name="arce">Ahorn</string>
     <string name="boj">Gewöhnlicher Buchsbaum</string>
     <string name="azalea">Azalee</string>
     <string name="cancel">Kündigen</string>
-    <string name="carmona">Carmona</string>
+    <string name="carmona">Fukientee</string>
     <string name="clamped">Geklemmt</string>
     <string name="community">Gemeinschaft</string>
     <string name="date">Datum</string>
     <string name="defoliate">Entlauben</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Löschen</string>
     <string name="delete_photo_confirm">Sind Sie sicher, dass Sie dieses Foto löschen möchten?</string>
-    <string name="delete_title">Delete</string>
+    <string name="delete_title">Löschen</string>
     <string name="delete_work_confirm">Möchten Sie diese Arbeit wirklich löschen?</string>
     <string name="deleted_photo">Gelöschtes Foto</string>
     <string name="deleted_work">Gelöschte Arbeit</string>
     <string name="description">Beschreibung</string>
     <string name="edit">Bearbeiten</string>
     <string name="email">Email</string>
-    <string name="enable_notifications">Benachrichtigungen</string>
+    <string name="enable_notifications">Benachrichtigungen aktivieren</string>
     <string name="encina">Eiche</string>
     <string name="erroneous_action">Unerwarteter Fehler gefunden :-(</string>
     <string name="error_creating_bonsai">Fehler beim Erstellen der Bonsai. Wiederhole mit den richtigen Werten</string>
@@ -93,10 +93,10 @@
     <string name="south">Süden</string>
     <string name="success_action">Erfolgreich gemacht!</string>
     <string name="successful_work_added">Erfolgreich hinzugefügt</string>
-    <string name="summ_enable_notifications">Aktivieren Sie diese Option, bonsaidroid zeigt Benachrichtigungen</string>
+    <string name="summ_enable_notifications">Aktivieren Sie diese Option, damit Bonsaidroid Benachrichtigungen anzeigt</string>
     <string name="summary">Zusammenfassung</string>
     <string name="summary_hemisphere">Wird verwendet, um die empfohlenen Arbeiten nach Monat anzupassen</string>
-    <string name="tejo">Taxos baccata</string>
+    <string name="tejo">Eibe</string>
     <string name="time">Zeit</string>
     <string name="title_activity_bonsai_details">Bonsai</string>
     <string name="title_activity_bonsai_list">Anfang</string>
@@ -108,38 +108,38 @@
     <string name="wood_work">Holz-Arbeit</string>
     <string name="zelkova">Zelkove (Chinesische Ulme)</string>
     <string name="work_history">Arbeitsgeschichte</string>
-    <string name="backups">Sicherungskopie</string>
+    <string name="backups">Sicherungskopien</string>
     <string name="add_backup">Neue sicherungskopie</string>
-    <string name="title_activity_database_backup">Sicherungskopie</string>
+    <string name="title_activity_database_backup">Sicherungskopien</string>
     <string name="note">Hinweis</string>
     <string name="days">Tage</string>
-    <string name="gdrive_conn_error">Error opening connection with google drive</string>
-    <string name="gdrive_conn_error_failed">Unable to connect with Google Drive</string>
+    <string name="gdrive_conn_error">Fehler beim Verbinden mit Google Drive</string>
+    <string name="gdrive_conn_error_failed">Verbindung mit Google Drive kann nicht hergestellt werden</string>
     <string name="gdrive_successful_connection">Erfolgreich mit Drive verbunden</string>
-    <string name="load">Loading...</string>
-    <string name="connected_as">Connected as:</string>
-    <string name="connection_error">Connection error, please retry</string>
-    <string name="sign_out">Sign out</string>
+    <string name="load">Loading&#8230;</string>
+    <string name="connected_as">Verbunden als:</string>
+    <string name="connection_error">Verbindungsfehler, versuchen Sie es erneut</string>
+    <string name="sign_out">Zugangsberechtigung aufheben</string>
     <string name="session">Session</string>
     <string name="communicate">Social</string>
-    <string name="gdrive_backup_help">Backups are stored into your Google Drive account. By this way, backups are available online even for other devices.</string>
-    <string name="creating_backup">Creating backup&#8230;</string>
-    <string name="delete_backup_confirm">Are you sure you want to delete this backup?</string>
-    <string name="deleting_backup">Backup Löschen&#8230;</string>
+    <string name="gdrive_backup_help">Sicherungskopien werden in Ihrem Google Drive-Konto gespeichert. Auf diese Weise sind die Kopien online und auch für andere Geräte verfügbar.</string>
+    <string name="creating_backup">Backup erstellen&#8230;</string>
+    <string name="delete_backup_confirm">Möchten Sie diese Kopie wirklich löschen?</string>
+    <string name="deleting_backup">Backup löschen&#8230;</string>
     <string name="information">Information</string>
     <string name="loading_backups">Backups laden &#8230;</string>
     <string name="photos">Fotos</string>
     <string name="restore_backup_confirm">Sind Sie sicher, dass Sie diese Sicherung wiederherstellen möchten? Die aktuelle Datenbank wird vollständig ersetzt.</string>
     <string name="restore_backup_finished">Datenbank korrekt wiederhergestellt. Bitte starten Sie die Anwendung neu.</string>
-    <string name="restore_backup_incompatible_version">Die ausgewählte Sicherung stammt aus einer neuen Version der Anwendung. Bitte gehen Sie zum Play Store und aktualisieren Sie Bonsai Droid.</string>
+    <string name="restore_backup_incompatible_version">Die ausgewählte Sicherung stammt aus einer neuen Version der Anwendung. Bitte gehen Sie zum Play Store und aktualisieren Sie Bonsaidroid.</string>
     <string name="restore">Wiederherstellen</string>
     <string name="restoring_backups">Sicherung wird wiederhergestellt &#8230;</string>
     <string name="upgrading_db">Aktualisieren der Datenbank auf die neueste Version</string>
     <string name="works">Arbeiten</string>
     <string name="bonsais">Bonsais</string>
     <string name="unexpected_error">Unerwarteter Fehler</string>
-    <string name="loading">Loading...</string>
-    <string name="sign_revoke">Zugangsberechtigung aufheben</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="sign_revoke">Konto löschen</string>
     <string name="delete_bonsais_confirm">Möchten Sie diesen/diese Bonsais wirklich entfernen?</string>
     <string name="share">Teilen</string>
     <string name="share_profile_photo">Teilen Sie Fotos mit&#8230;</string>
@@ -149,8 +149,8 @@
     <string name="bonsai_files">Dateien</string>
     <string name="comments">Kommentare</string>
     <string name="common_name">Gemeinsamer Name</string>
-    <string name="confirm_download">Diese Datei herunterladen Bonsai?</string>
-    <string name="confirm_upload">Hochladen von Dateien Bonsai?</string>
+    <string name="confirm_download">Diese Datei herunterladen?</string>
+    <string name="confirm_upload">Datei hochladen?</string>
     <string name="country">Land</string>
     <string name="created">Erstellt</string>
     <string name="delete_bonsai_file">Sind Sie sicher, diese Bonsai-Datei zu löschen?</string>
@@ -163,7 +163,7 @@
     <string name="light">Licht</string>
     <string name="multiplication">Vermehrung</string>
     <string name="new_bonsai_file">Bonsai-Datei erstellen</string>
-    <string name="new_bonsai_file_mandatory_params">Sie haben mindestens einen gemeinsamen Namen für die neue Bonsai zu geben.</string>
+    <string name="new_bonsai_file_mandatory_params">Sie müssen dem neuen Bonsai zumindest einen gemeinsamen Namen geben.</string>
     <string name="new_bonsai_file_title">Neue Bonsai-Datei</string>
     <string name="new_bonsai_file_txt">Trage zur Gemeinschaft bei, indem du eine neue Bonsai-Datei erstellst.</string>
     <string name="other_cares">Andere Sorgen</string>
@@ -174,13 +174,13 @@
     <string name="rating">Bewertung</string>
     <string name="recommendation_per_month">Arbeiten pro Monat</string>
     <string name="report_content">Als anstößigen Inhalt melden</string>
-    <string name="report_content_reason">Hat dieses Element irgendeine Sprache oder einen anderen anstößigen Inhalt und sollte es entfernt werden?</string>
+    <string name="report_content_reason">Enthält dieses Element anstößige Inhalte und denken Sie, dass es entfernt werden muss?</string>
     <string name="search">Suche</string>
     <string name="search_file_country">Suche nur Dateien aus meinem Land</string>
     <string name="search_file_language">Suche Dateien nur in meiner Sprache</string>
     <string name="success_add_bonsai_file_rate">Bewertung hinzugefügt!</string>
     <string name="success_bonsai_file_download">Erfolgreich in Ihre Bibliothek heruntergeladen.</string>
-    <string name="success_bonsai_file_upload">Erfolgreich hochgeladene Bonsai-Datei, danke fürs Teilen.</string>
+    <string name="success_bonsai_file_upload">Erfolgreich hochgeladene Bonsai-Datei, danke für den Beitrag.</string>
     <string name="success_delete">Erfolgreich gelöscht.</string>
     <string name="temperature">Temperatur</string>
     <string name="update">Aktualisierung</string>
@@ -189,14 +189,14 @@
     <string name="my_downloads">Meine Downloads</string>
     <string name="my_files">Meine Dateien</string>
     <string name="send_rate">Senden</string>
-    <string name="show">Show</string>
+    <string name="show">Anzeigen</string>
     <string name="soil">Erde</string>
     <string name="style">Stil</string>
     <string name="privacy">Privacy policy</string>
-    <string name="policy">- Bonsaidroid is an application developed only in free times as a personal project, so it cames without any warranty of use. So, we do not give an official support and continuous updates, and the additional services, as the online files, can be closed in a future.\n\n
-                        - Online files service. This service is also developed by my own, so same conditions as the Android app are offered. Bonsaidroid does not take responsability about the content uploaded by users, and we have the right of removing inappropiate or offensive content. This service could be suspended in a future in the same way that we do not offer a long term support of the Android application.\n\n
-                        - Stats. Android application uses the Google Firebase analytics for collecting anonymous usage.\n\n
-                        Using the Android application implies accepting this privacy policy.</string>
+    <string name="policy">- Bonsaidroid ist eine Anwendung, die nur in der Freizeit und als persönliches Projekt entwickelt wurde und daher keine Garantie für die Nutzung bietet. Es gibt keinen offiziellen Support und kontinuierliche Updates, und die zusätzlichen Dienste, wie die Online-Dateien, können in Zukunft geschlossen werden.\n\n
+                        - Online Datei Service. Dieser Dienst wird ebenfalls von mir entwickelt, daher gelten die gleichen Bedingungen wie für die Android-App. Darüber hinaus ist Bonsaidroid nicht verantwortlich für die von Nutzern veröffentlichten Inhalte und behält sich das Recht vor, jederzeit beleidigende oder unangemessene Inhalte zu entfernen. Dieser Service könnte in Zukunft ausgesetzt werden, genauso wie wir keinen langfristigen Support der Android-App anbieten.\n\n
+                        - Statistiken. Bonsaidroid verwendet die Google Firebase, um anonyme Statistiken über die Verwendung der Anwendung zu sammeln.\n\n
+                        Die Nutzung der Anwendung impliziert die Annahme dieser Datenschutzerklärung.</string>
     <string name="more_types">Weitere Arten von der Gemeinschaft</string>
     <string name="lost_changes">Änderungen verwerfen?</string>
     <string name="allow_weather">Wetterdaten überprüfen</string>
@@ -218,7 +218,7 @@
     <string name="select_app_language">Anwendungssprache ändern (Neustart erforderlich)</string>
     <string name="actual_years">Aktuelles Alter</string>
     <string name="adquisition">Erworben bei</string>
-    <string name="adquisition_date">Erworbenes Datum</string>
+    <string name="adquisition_date">Erwerbsdatum</string>
     <string name="adquisition_years">Erworbenes Alter</string>
     <string name="pot_type">Topf</string>
     <string name="price">Preis</string>
@@ -226,7 +226,7 @@
     <string name="since">"Bericht erstellen seit "</string>
     <string name="add_profile_photos">"Füge ein Profilfoto hinzu "</string>
     <string name="creating_progress">Erstellen</string>
-    <string name="generated_report">"Erfolgreich erstellten Bericht. Nehmen Sie es aus dem Verzeichnis \"bonsaiDroid\" auf Ihrer SD-Karte (es ist ein docx-Dokument) "</string>
-    <string name="shared_with_bonsaidroid">"Mit Bonsaidroid geteilt. "</string>
+    <string name="generated_report">Bericht erfolgreich erstellt im Verzeichnis \"BonsaiDroid\" Ihrer SD-Karte (es ist ein docx-Dokument)</string>
+    <string name="shared_with_bonsaidroid">Mit Bonsaidroid geteilt.</string>
 
 </resources>
