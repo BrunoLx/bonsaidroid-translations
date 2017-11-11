@@ -226,4 +226,9 @@
     <string name="creating_progress">Generando...</string>
     <string name="generated_report">Report creado satisfactoriamente en el directorio \"bonsaiDroid\" de tu SD-CARD. (es un archivo .docx)</string>
     <string name="shared_with_bonsaidroid">Compartido con Bonsaidroid.</string>
+    <string name="select_all">Seleccionar todo</string>
+    <string name="un_select_all">Seleccionar nada</string>
+
+    <string name="action_selected_one">%1$s seleccionado</string>
+    <string name="action_selected_many">%1$s seleccionados</string>
 </resources>

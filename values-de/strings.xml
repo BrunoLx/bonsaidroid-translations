@@ -229,4 +229,9 @@
     <string name="generated_report">Bericht erfolgreich erstellt im Verzeichnis \"BonsaiDroid\" Ihrer SD-Karte (es ist ein docx-Dokument)</string>
     <string name="shared_with_bonsaidroid">Mit Bonsaidroid geteilt.</string>
 
+    <string name="select_all">Alles auswählen</string>
+    <string name="un_select_all">Alles wiederufen</string>
+
+    <string name="action_selected_one">%1$s ausgewählt</string>
+    <string name="action_selected_many">%1$s ausgewählt</string>
 </resources>

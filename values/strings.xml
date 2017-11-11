@@ -127,6 +127,9 @@
 
     <string name="notification_advise">Take a look to these bonsais!</string>
 
+    <string name="action_selected_one">%1$s selected</string>
+    <string name="action_selected_many">%1$s selected</string>
+
     <string name="gallery">Gallery</string>
     <string name="date">Date</string>
     <string name="time">Time</string>
@@ -278,5 +281,7 @@
     <string name="creating_progress">Creating...</string>
     <string name="generated_report">Successfully generated report. Take it from directory \"bonsaiDroid\" at your sdcard (it\'s a docx document)</string>
     <string name="shared_with_bonsaidroid">Shared with Bonsaidroid.</string>
+    <string name="select_all">Select all</string>
+    <string name="un_select_all">Unselect all</string>
 
 </resources>
