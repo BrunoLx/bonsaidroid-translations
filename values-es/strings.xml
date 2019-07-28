@@ -231,4 +231,13 @@
 
     <string name="action_selected_one">%1$s seleccionado</string>
     <string name="action_selected_many">%1$s seleccionados</string>
+    <string name="create_note">Añadir nota</string>
+    <string name="no_more_data">No hay más datos</string>
+    <string name="cancelled">Cancelado</string>
+    <string name="delete_note_confirm">¿Estás seguro que quieres borrar esta nota?</string>
+    <string name="temperature_as_celsius">Usar celsius</string>
+    <string name="no_more_load_retry">No more items to load</string>
+    <string name="service">Servicio de fichas</string>
+    <string name="service_maintenance">El servidor de fichas está en mantenimiento. Inténtalo más tarde.</string>
+    <string name="service_min_version_required">Actualiza la aplicación en el Play Store antes de poder acceder al servidor de fichas.</string>
 </resources>

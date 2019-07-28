@@ -233,4 +233,13 @@
 
     <string name="action_selected_one">%1$s choisi</string>
     <string name="action_selected_many">%1$s choisi</string>
+    <string name="delete_note_confirm">"Êtes-vous sûr de vouloir supprimer cette note? "</string>
+    <string name="create_note">"Ajouter une note "</string>
+    <string name="temperature_as_celsius">"Utiliser Celsius "</string>
+    <string name="no_more_data">No more data</string>
+    <string name="no_more_load_retry">No more items to load</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="service">Files service</string>
+    <string name="service_maintenance">"Le service à distance Bonsaidroid est en maintenance. Essayer plus tard. "</string>
+    <string name="service_min_version_required">"Bitte aktualisieren Sie die Anwendung im Play Store, bevor Sie auf den Dateiservice zugreifen. "</string>
 </resources>

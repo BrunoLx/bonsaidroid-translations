@@ -190,7 +190,6 @@
     <string name="share">Share</string>
     <string name="bonsai_files">Files</string>
 
-    <string name="server_client_id" translatable="false">641523325641-sp3d97m5hkdqldojcp56ioj1rlkuoee3.apps.googleusercontent.com</string>
 
     <string name="latin_name">Latin name</string>
     <string name="common_name">Common name</string>
@@ -247,7 +246,7 @@
                         Using the Android application implies accepting this privacy policy.</string>
 
     <string name="email_address" translatable="false"><a href="mailto:unusualsoftware@gmail.com?subject=BonsaiDroid">unusualsoftware@gmail.com</a></string>
-    <string name="gplus_community" translatable="false"><a href="https://plus.google.com/communities/107982871552309876978">Google Plus</a></string>
+    <string name="gplus_community" translatable="false"><a href="https://bonsaidroid.wordpress.com/">BonsaiDroid</a></string>
     <string name="more_types">More types from community</string>
     <string name="lost_changes">Discard changes?</string>
 
@@ -283,5 +282,16 @@
     <string name="shared_with_bonsaidroid">Shared with Bonsaidroid.</string>
     <string name="select_all">Select all</string>
     <string name="un_select_all">Unselect all</string>
+
+    <string name="create_note">Add note</string>
+    <string name="no_more_data">No more data</string>
+    <string name="no_more_load_retry">No more items to load</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="delete_note_confirm">Are you sure you want to remove this note?</string>
+    <string name="temperature_as_celsius">Use celsius</string>
+    <string name="service">Files service</string>
+    <string name="service_maintenance">Bonsaidroid remote service is on maintenance. Try later.</string>
+    <string name="service_min_version_required">Please upgrade the application at Play Store before accessing the files service.</string>
+
 
 </resources>

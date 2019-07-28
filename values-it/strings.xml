@@ -234,4 +234,13 @@
 
     <string name="action_selected_one">%1$s selezionato</string>
     <string name="action_selected_many">%1$s selezionato</string>
+    <string name="delete_note_confirm">"Sei sicuro di voler rimuovere questa nota? "</string>
+    <string name="create_note">"Aggiungi nota "</string>
+    <string name="temperature_as_celsius">"Usa Celsius "</string>
+    <string name="no_more_data">No more data</string>
+    <string name="no_more_load_retry">No more items to load</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="service">Files service</string>
+    <string name="service_maintenance">"Il servizio remoto Bonsaidroid è in manutenzione. Prova più tardi. "</string>
+    <string name="service_min_version_required">"Si prega di aggiornare l'applicazione su Play Store prima di accedere al servizio file. "</string>
 </resources>
