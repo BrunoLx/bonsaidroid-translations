@@ -65,11 +65,11 @@
     <string name="irrigation_card_view">Irrigation:</string>
     <string name="last_irrigation">Dernière irrigation (jours)</string>
     <string name="last_works">Dernier ouvrage</string>
-    <string name="latest_revision">Vérification du temps</string>
+    <string name="latest_revision">Dernière mise à jour</string>
     <string name="ligustrum">Ligustrum</string>
-    <string name="month_works_recommendation">Travaux pour ce mois</string>
+    <string name="month_works_recommendation">Travaux du mois recommandés</string>
     <string name="loading_photos">Chargement des photos &#8230;</string>
-    <string name="name">Prénom</string>
+    <string name="name">Nom</string>
     <string name="new_work">Nouveau travail</string>
     <string name="no_data">Pas de données</string>
     <string name="no_photos">Pas de photos</string>
@@ -84,7 +84,7 @@
     <string name="quick_action">Une action rapide</string>
     <string name="roble">Quercus</string>
     <string name="save">Sauvegarder</string>
-    <string name="select_bonsai_type">Sélectionner le genre</string>
+    <string name="select_bonsai_type">Sélection Type de Bonsai</string>
     <string name="select_hemisphere">Hémisphère sélectionné</string>
     <string name="serissa">Serissa</string>
     <string name="set_profile_photo">Photo de profil</string>
@@ -103,8 +103,8 @@
     <string name="title_settings_activity">Paramètres</string>
     <string name="transplant">Transplantation</string>
     <string name="type">Type</string>
-    <string name="wiring">Câblage</string>
-    <string name="wood_work">Travail du bois</string>
+    <string name="wiring">Ligaturage</string>
+    <string name="wood_work">Sculture du bois</string>
     <string name="zelkova">Zelkova (Chinese ulmus)</string>
     <string name="work_history">Historique</string>
     <string name="backups">Sauvegarde</string>
